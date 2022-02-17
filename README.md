@@ -1,2 +1,8 @@
-# Introducci-n-Algor-tmica
-En este repositorio quedan resueltos los primeros ejercicios de introducción a la algorítmica.
+<h1 align="center">Introducción a la algorítmica</h1>
+
+<h3 align="center">Perfil de GitHub del autor de este proyecto:</h3>
+
+1. [@jmedina28](https://github.com/jmedina28)
+
+---
+En este [repositorio](https://github.com/jmedina28/Introduccion-Algoritmica) quedan resueltos los primeros ejercicios de introducción a la algorítmica. Para llevar a cabo el proyecto me he documentado a través de los ejemplos dados y la teoría que se encuentra en el campus virtual.
