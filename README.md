@@ -5,4 +5,4 @@
 1. [@jmedina28](https://github.com/jmedina28)
 
 ---
-En este [repositorio](https://github.com/jmedina28/Introduccion-Algoritmica) quedan resueltos los primeros ejercicios de introducción a la algorítmica. Para llevar a cabo el proyecto me he documentado a través de los ejemplos dados y la teoría que se encuentra en el campus virtual.
+En este [repositorio](https://github.com/jmedina28/SegundaParteAlgoritmos) quedan resueltos los primeros ejercicios de introducción a la algorítmica. Para llevar a cabo el proyecto me he documentado a través de los ejemplos dados y la teoría que se encuentra en el campus virtual.
